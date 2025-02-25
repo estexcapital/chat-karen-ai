@@ -1,0 +1,19 @@
+{
+    "name": "web-chat-ai",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "keywords": [],
+    "type": "commonjs",
+    "description": "",
+    "dependencies": {
+        "axios": "^1.7.9",
+        "bootstrap": "^5.3.3",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2"
+    }
+}
